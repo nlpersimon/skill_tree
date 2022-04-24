@@ -1,40 +1,39 @@
 # Current Working
 ## Common
-  - Java
-  - API
+  - [ ] Java
+  - [ ] API
     - REST (paper)
     - API authentication
     - APIs
-  - mongoDB
-  - elasticsearch
-  - kafka
-  - testing
+  - [ ] mongoDB
+  - [ ] elasticsearch
+  - [ ] kafka
+  - [ ] testing
     - integration testing
     - unit testing
     - functional testing
 
 
 ## Backend
-  - OS basics
+  - [x] OS basics
     - memory management
     - interprocess communication
     - I/O management
     - POSIX basics: stdin, stdout, stderr, pipes
     - basic networking concepts
-  - architectural patterns
+  - [ ] architectural patterns
     - microservices
     - serverless
 
 ## Data
-  - REST
-  - structured vs unstructured data
-  - AWS dynamoDB
-  - AWS S3
-  - Hadoop
+  - [ ] structured vs unstructured data
+  - [ ] AWS dynamoDB
+  - [ ] AWS S3
+  - [ ] Hadoop
 
 ## ML
-  - MLflow
-  - cloud computing
+  - [ ] MLflow
+  - [ ] cloud computing
     - object storage
     - AWS SageMaker
 

@@ -26,7 +26,7 @@
     - serverless
 
 ## Data
-  - [ ] structured vs unstructured data
+  - [x] structured vs unstructured data
   - [ ] AWS dynamoDB
   - [ ] AWS S3
   - [ ] Hadoop

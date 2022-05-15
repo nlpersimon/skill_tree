@@ -5,7 +5,7 @@
     - REST (paper)
     - API authentication
     - APIs
-  - [ ] mongoDB
+  - [x] mongoDB
   - [ ] elasticsearch
   - [ ] kafka
   - [ ] testing

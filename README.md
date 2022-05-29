@@ -21,7 +21,7 @@
     - I/O management
     - POSIX basics: stdin, stdout, stderr, pipes
     - basic networking concepts
-  - [ ] architectural patterns
+  - [x] architectural patterns
     - microservices
     - serverless
 
